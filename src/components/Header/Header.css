@@ -1,0 +1,24 @@
+header {
+    background: steelblue;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 1px 1px darkblue;
+    height: 60px;
+  }
+  
+  header h1 {
+    font-size: 20px;
+  }
+
+  
+.search {
+  display: flex;
+}
+
+.search input {
+  padding: 10px;
+}
+
